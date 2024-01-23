@@ -10,4 +10,4 @@ This project's dataset was made available by the **_Center for Research in Compu
 **3DCNN **is basically used for video classification. It’s similar with **2DCONV **just** **adding a third dimension on it. Moreover 2DCONV is basically fits best with static images while 3DCNN performs better on video. The use case of 3DCNN involves video data, medical imaging volumes (e.g., CT or MRI scans over time), and spatiotemporal data.
 
 **Workflow Diagram:**
-![Workflow Diagram](https://drive.google.com/file/d/13PCR6dkWSEQPwa3RhqnUg2eadglYruJ-/view)
+![Workflow Diagram]([https://drive.google.com/file/d/13PCR6dkWSEQPwa3RhqnUg2eadglYruJ-/view](https://1drv.ms/i/s!AlcfbF85V4zrbE1CBx_mWLtYv8Q?e=5SxtMu)https://1drv.ms/i/s!AlcfbF85V4zrbE1CBx_mWLtYv8Q?e=5SxtMu)
